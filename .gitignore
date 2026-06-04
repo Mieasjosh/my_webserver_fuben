@@ -1,0 +1,24 @@
+# 编译产物
+server
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# 日志文件
+*_Serverlog
+
+# 隐藏文件
+.fuse_hidden*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
